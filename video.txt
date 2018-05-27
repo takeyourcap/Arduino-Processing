@@ -10,7 +10,7 @@ By takeyourcap@foxmail.com
 2, Install Arduino（IDE) and Processing software. For Processing, the "video" library
    need to be downloaded separately, Select "Add Library..." from the "Import Library
    ..." submenu within the Sketch menu.  
-   video库需单独下载。打开Sketch菜单--导入库--添加库，搜过video库并下载。
+   video库需单独下载。打开Sketch菜单--导入库--添加库，搜索video库并下载。
 *************************************************************************************
  
 
